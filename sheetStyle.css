@@ -1,0 +1,15 @@
+body{
+	text-align:center;
+	background-image:url(http://franny1615.github.io/test_webpage/4kA.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+h1 {
+	color:navy;
+	font-family:Impact;
+}
+
+table{
+	text-align:center;
+}
