@@ -1,14 +1,14 @@
 body{
 	text-align:center;
 	background-image:url(http://franny1615.github.io/test_webpage/4kA.jpg);
-	background-color:black;
+	background-color:lightblue;
 	background-repeat:no-repeat;
 	background-size:100%;
 }
 
 p {
 	font-size:100%;
-	color:blue;
+	color:black;
 }
 
 h1 {
