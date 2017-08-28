@@ -1,8 +1,14 @@
 body{
 	text-align:center;
 	background-image:url(http://franny1615.github.io/test_webpage/4kA.jpg);
+	background-color:lightblue;
 	background-repeat:no-repeat;
 	background-size:100%;
+}
+
+p {
+	font-size:100%;
+	color:blue;
 }
 
 h1 {
@@ -12,4 +18,34 @@ h1 {
 
 table{
 	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.image1{
+	width:238px;
+	height:82px;
+}
+
+.image2{
+	width:200px;
+	height:100px;
+}
+
+.image3{
+	border:5px solid;
+	width:400px;
+	height:300px;
+}
+
+.image4{
+	border:5px solid;
+	width:500px;
+	height:337px;
+}
+
+.image5{
+	border:5px solid;
+	width:400px;
+	height:300px;
 }
