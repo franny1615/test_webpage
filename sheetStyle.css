@@ -22,6 +22,10 @@ table{
 	margin-right:auto;
 }
 
+figcaption{
+	background-color:powderblue;
+}
+
 .image1{
 	width:238px;
 	height:82px;
