@@ -19,6 +19,8 @@ h1 {
 
 figcaption{
 	background-color:powderblue;
+	border-radius:15px;
+	border:thin black solid;
 }
 
 .imageTables{
